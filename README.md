@@ -20,7 +20,7 @@ You can configure the environment with the following command
 conda install --yes --file requirements.txt
 ```
 ## Datasets
-- Please download our datasets [here](https://drive.google.com/drive/folders/1xLxaz3zJRqZbTVDzkoAoWZiX50gwZI_4?usp=sharing), put under `./data/` directory.
+- Please download our datasets [here](https://drive.google.com/drive/folders/1EME11HTqCc7ozlInfSFqjjnvwILPXVng?usp=sharing), put under `./data/` directory.
 - The directory structure of the data folder after the data is added is
 ```.
 data
@@ -30,7 +30,7 @@ data
 │   │   └── test.pkl                                            // Full test set
 ```
 ## Weights
-- Please download our datasets [here](https://drive.google.com/drive/folders/1xLxaz3zJRqZbTVDzkoAoWZiX50gwZI_4?usp=sharing), put under `./lib/models/weights/` directory.
+- Please download our datasets [here](https://drive.google.com/drive/folders/1HIxyfoLM0dMTU1xqvemE4p-xN8WMn_tE?usp=sharing), put under `./lib/models/weights/` directory.
 - The directory structure of the weights folder after the weights is added is
 ```.
 weights
